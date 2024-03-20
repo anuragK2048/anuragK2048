@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 📫 You can reach me at anuragkodle111@gmail.com
+- 😎 Portfolio - https://anuragweb2048.netlify.app/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Programming is now my new love ;)
 
